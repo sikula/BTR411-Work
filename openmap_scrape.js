@@ -1,5 +1,5 @@
 /* ==================================================================================
- * AUTHOR       : sikula
+ * AUTHOR       : sikula, freakazoidile
  * VERSION      : 1.0.6
  * DESCRIPTION  : A javascript program using CasperJS to save a map, from
  *                OpenStreet Maps as an image. The program can easily manipulate the

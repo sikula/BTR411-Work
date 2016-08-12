@@ -1,6 +1,6 @@
 /*
  * ==================================================================================
- * AUTHOR       : sikula
+ * AUTHOR       : sikula, freakazoidile
  * VERSION      : 1.0.6
  * DESCRIPTION  : A javascript program using CasperJS to extract the
  *                title, url, and time posted of the posts from a specified
